@@ -7,6 +7,13 @@
 
 ---
 
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alexweiss)
+📧 alexweiss@yourmail.com
+
+---
+
 ## 🧠 What I do
 
 - Build **OCR + GPT-based** tools for logistics documents
