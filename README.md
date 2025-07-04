@@ -9,7 +9,7 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alexweiss)
+[![LinkedIn](www.linkedin.com/in/alex-weiss-a6483417b)
 
 
 ---
