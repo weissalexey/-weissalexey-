@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./banner.png" alt="Alex Weiss – IT Systems & Interfaces" />
+</p>
+
+# 👋 Hi, I'm Alex Weiss  
+🚛 I build smart bridges between **logistics, data & humans**  
+🌍 Based in Germany — Available for Remote (DE / EU / US)  
+
+<!-- Остальная инфа -->
 
 # 👋 Hi, I'm Alex Weiss
 
