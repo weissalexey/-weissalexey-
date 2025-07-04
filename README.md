@@ -10,7 +10,7 @@
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alexweiss)
-📧 alexweiss@yourmail.com
+
 
 ---
 
