@@ -38,3 +38,10 @@ LISIN · A4L · Spedion · DocuWare · Logenius · REST APIs · PDF/OCR
 
 `Python` · `FastAPI` · `React/Next.js` · `Tailwind` · `TypeScript`  
 `SQL` · `Docker` · `OCR` · `OpenAI GPT` · `JSON/XML/Fotras` · `PDF.js`
+
+---
+
+## 🧑‍💻 News
+
+<!--START_SECTION:news-->
+<!--END_SECTION:news-->
