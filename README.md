@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weissalexey/weissalexey/main/banner.png" alt="Alex Weiss – IT Systems & Interfaces" />
+  <img src="https://github.com/weissalexey/-weissalexey-/blob/main/banner.png" alt="Alex Weiss – IT Systems & Interfaces" />
 </p>
 
 
