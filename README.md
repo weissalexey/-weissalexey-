@@ -41,7 +41,8 @@ LISIN · A4L · Spedion · DocuWare · Logenius · REST APIs · PDF/OCR
 
 ---
 
-## 🧑‍💻 News
+## 📰 Latest IT News
 
 <!--START_SECTION:news-->
 <!--END_SECTION:news-->
+
