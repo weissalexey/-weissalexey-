@@ -44,6 +44,6 @@ LISIN · A4L · Spedion · DocuWare · Logenius · REST APIs · PDF/OCR
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Slate Auto drops &#8216;under $20,000&#8217; pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
+📰 [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/)
 <!--END_SECTION:news-->
 
