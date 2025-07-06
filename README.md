@@ -44,6 +44,6 @@ LISIN · A4L · Spedion · DocuWare · Logenius · REST APIs · PDF/OCR
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/)
+📰 [Drive Capital&#8217;s second act –  how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
 <!--END_SECTION:news-->
 
