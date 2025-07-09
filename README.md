@@ -44,6 +44,6 @@ LISIN · A4L · Spedion · DocuWare · Logenius · REST APIs · PDF/OCR
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [UAE proptech Huspy raises $59M to scale in Europe](https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/)
+📰 [Hugging Face opens up orders for its Reachy Mini desktop robots](https://techcrunch.com/2025/07/09/hugging-face-opens-up-orders-for-its-reachy-mini-desktop-robots/)
 <!--END_SECTION:news-->
 
