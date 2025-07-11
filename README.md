@@ -44,6 +44,6 @@ LISIN · A4L · Spedion · DocuWare · Logenius · REST APIs · PDF/OCR
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Google brings its AI-powered marketing tools to India after &#8216;Google tax&#8217; repeal](https://techcrunch.com/2025/07/09/google-brings-its-ai-powered-marketing-tools-to-india-after-google-tax-repeal/)
+📰 [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/)
 <!--END_SECTION:news-->
 
