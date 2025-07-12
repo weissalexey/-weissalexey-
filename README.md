@@ -44,6 +44,6 @@ LISIN · A4L · Spedion · DocuWare · Logenius · REST APIs · PDF/OCR
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/)
+📰 [Sequoia bets on silence](https://techcrunch.com/2025/07/11/sequoia-bets-on-silence/)
 <!--END_SECTION:news-->
 
