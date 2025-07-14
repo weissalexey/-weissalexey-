@@ -46,7 +46,6 @@ LISIN · A4L · Spedion · DocuWare · Logenius · REST APIs · PDF/OCR
 📝 **OCR & GPT for Transport Documents**  
 Extracts CMR/Delivery data from PDF using Tesseract + OpenAI  
 ➡️ [See Project](https://github.com/weissalexey/OCR_Projekt-)  
-<img src="https://github.com/weissalexey/ocr-dispatcher-helper/blob/main/demo.png" width="600" alt="OCR Demo"/>
 
 🔄 **Schnittstelle to Spedion XML**  
 Automates order exchange between LISIN and Spedion  
