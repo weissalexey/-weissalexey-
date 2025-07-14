@@ -64,6 +64,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [A United Nations research institute created an AI refugee avatar](https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/)
+📰 [Meta acquires voice startup Play AI](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/)
 <!--END_SECTION:news-->
 
