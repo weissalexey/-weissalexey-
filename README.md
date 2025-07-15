@@ -10,7 +10,8 @@ I build smart bridges between **logistics, data & humans**
 📍 Based in Germany — Available for Remote (🇩🇪 / 🇪🇺 / 🇺🇸)  
 🛠️ Focused on automation, Schnittstellen & document intelligence  
 
-[![LinkedIn]([www.linkedin.com/in/alex-weiss-a6483417b])]
+[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/alex-weiss-a6483417b)
+
 
 ---
 
