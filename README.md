@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Meta acquires voice startup Play AI](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/)
+📰 [Tesla finally enters India — nine years after Elon Musk first teased its debut](https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/)
 <!--END_SECTION:news-->
 
