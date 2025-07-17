@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Of course, Grok&#8217;s AI companions want to have sex and burn down schools](https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/)
+📰 [TikTok is adding features for songwriters to its app](https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/)
 <!--END_SECTION:news-->
 
