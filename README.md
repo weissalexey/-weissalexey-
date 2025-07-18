@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [TikTok is adding features for songwriters to its app](https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/)
+📰 [Perplexity sees India as a shortcut in its race against OpenAI](https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/)
 <!--END_SECTION:news-->
 
