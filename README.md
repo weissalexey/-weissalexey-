@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Perplexity sees India as a shortcut in its race against OpenAI](https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/)
+📰 [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/)
 <!--END_SECTION:news-->
 
