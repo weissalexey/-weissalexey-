@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say](https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/)
+📰 [Microsoft says it will no longer use engineers in China for Department of Defense work](https://techcrunch.com/2025/07/19/microsoft-says-it-will-no-longer-use-engineers-in-china-for-department-of-defense-work/)
 <!--END_SECTION:news-->
 
