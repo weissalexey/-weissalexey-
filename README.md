@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Microsoft says it will no longer use engineers in China for Department of Defense work](https://techcrunch.com/2025/07/19/microsoft-says-it-will-no-longer-use-engineers-in-china-for-department-of-defense-work/)
+📰 [Former Tesla president discloses the secret to scaling a company](https://techcrunch.com/2025/07/20/former-tesla-president-discloses-the-secret-to-scaling-a-company/)
 <!--END_SECTION:news-->
 
