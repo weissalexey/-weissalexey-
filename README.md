@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Former Tesla president discloses the secret to scaling a company](https://techcrunch.com/2025/07/20/former-tesla-president-discloses-the-secret-to-scaling-a-company/)
+📰 [Latent Labs launches web-based AI model to democratize protein design](https://techcrunch.com/2025/07/21/latent-labs-launches-web-based-ai-model-to-democratize-protein-design/)
 <!--END_SECTION:news-->
 
