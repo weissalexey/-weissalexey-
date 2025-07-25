@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [A new AI coding challenge just published its first results — and they aren’t pretty](https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/)
+📰 [Amid increased momentum for defense, the NATO Innovation Fund refreshes its investment team](https://techcrunch.com/2025/07/24/amid-increased-momentum-for-defense-the-nato-innovation-fund-refreshes-its-investment-team/)
 <!--END_SECTION:news-->
 
