@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Amid increased momentum for defense, the NATO Innovation Fund refreshes its investment team](https://techcrunch.com/2025/07/24/amid-increased-momentum-for-defense-the-nato-innovation-fund-refreshes-its-investment-team/)
+📰 [Tesla wants to bring robotaxis to San Francisco. Here&#8217;s what&#8217;s standing in the way.](https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/)
 <!--END_SECTION:news-->
 
