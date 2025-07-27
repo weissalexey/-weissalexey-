@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Tesla wants to bring robotaxis to San Francisco. Here&#8217;s what&#8217;s standing in the way.](https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/)
+📰 [U.K. starts enforcing online age check rules](https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/)
 <!--END_SECTION:news-->
 
