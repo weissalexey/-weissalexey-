@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [U.K. starts enforcing online age check rules](https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/)
+📰 [‘Wizard of Oz’ blown up by AI for giant Sphere screen](https://techcrunch.com/2025/07/27/wizard-of-oz-blown-up-by-ai-for-giant-sphere-screen/)
 <!--END_SECTION:news-->
 
