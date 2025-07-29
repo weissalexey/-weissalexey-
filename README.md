@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [‘Wizard of Oz’ blown up by AI for giant Sphere screen](https://techcrunch.com/2025/07/27/wizard-of-oz-blown-up-by-ai-for-giant-sphere-screen/)
+📰 [AI data analyst startup Julius nabs $10M seed round](https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/)
 <!--END_SECTION:news-->
 
