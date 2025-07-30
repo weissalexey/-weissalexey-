@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [AI data analyst startup Julius nabs $10M seed round](https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/)
+📰 [Space Force bets on commercial entrants in $4B satcom contest](https://techcrunch.com/2025/07/29/space-force-bets-on-commercial-entrants-in-4b-satcom-contest/)
 <!--END_SECTION:news-->
 
