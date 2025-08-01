@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [GitHub Copilot crosses 20 million all-time users](https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/)
+📰 [Handwave lends a hand to retailers with its European alternative to Amazon&#8217;s palm payments](https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/)
 <!--END_SECTION:news-->
 
