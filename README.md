@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Venture firm CRV raises $750M, downsizing after returning capital to investors](https://techcrunch.com/2025/08/01/venture-firm-crv-raises-750m-downsizing-after-returning-capital-to-investors/)
+📰 [Tim Cook reportedly tells employees Apple &#8216;must&#8217; win in AI](https://techcrunch.com/2025/08/02/tim-cook-reportedly-tells-employees-apple-must-win-in-ai/)
 <!--END_SECTION:news-->
 
