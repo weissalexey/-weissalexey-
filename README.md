@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Tim Cook reportedly tells employees Apple &#8216;must&#8217; win in AI](https://techcrunch.com/2025/08/02/tim-cook-reportedly-tells-employees-apple-must-win-in-ai/)
+📰 [Apple might be building its own AI ‘answer engine’](https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/)
 <!--END_SECTION:news-->
 
