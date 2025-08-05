@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Apple might be building its own AI ‘answer engine’](https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/)
+📰 [Uzbekistan&#8217;s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/)
 <!--END_SECTION:news-->
 
