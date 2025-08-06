@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Uzbekistan&#8217;s first unicorn, Uzum, leaps to a $1.5B valuation](https://techcrunch.com/2025/08/05/uzbekistans-first-unicorn-uzum-leaps-to-a-1-5b-valuation/)
+📰 [Clay confirms it closed $100M round at $3.1B valuation](https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/)
 <!--END_SECTION:news-->
 
