@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The Browser Company launches a $20 monthly subscription for its AI-powered browser](https://techcrunch.com/2025/08/06/the-browser-company-launches-a-20-monthly-subscription-for-its-ai-powered-browser/)
+📰 [xAI&#8217;s legal chief steps down after whirlwind year](https://techcrunch.com/2025/08/07/xais-legal-chief-steps-down-after-whirlwind-year/)
 <!--END_SECTION:news-->
 
