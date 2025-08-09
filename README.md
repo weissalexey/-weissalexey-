@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [xAI&#8217;s legal chief steps down after whirlwind year](https://techcrunch.com/2025/08/07/xais-legal-chief-steps-down-after-whirlwind-year/)
+📰 [Impersonators are targeting companies with fake TechCrunch outreach](https://techcrunch.com/2025/08/08/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/)
 <!--END_SECTION:news-->
 
