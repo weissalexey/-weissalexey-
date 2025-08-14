@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [ChatGPT&#8217;s model picker is back, and it&#8217;s complicated](https://techcrunch.com/2025/08/12/chatgpts-model-picker-is-back-and-its-complicated/)
+📰 [Co-founder of Elon Musk&#8217;s xAI departs the company](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
 <!--END_SECTION:news-->
 
