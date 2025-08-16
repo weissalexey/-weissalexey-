@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [US government is reportedly in discussions to take stake in Intel](https://techcrunch.com/2025/08/14/u-s-government-is-reportedly-in-discussions-to-take-stake-in-intel/)
+📰 [Winklevoss twins&#8217; crypto company Gemini files for IPO](https://techcrunch.com/2025/08/15/winklevoss-twins-crypto-company-gemini-files-for-ipo/)
 <!--END_SECTION:news-->
 
