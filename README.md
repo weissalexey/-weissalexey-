@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Winklevoss twins&#8217; crypto company Gemini files for IPO](https://techcrunch.com/2025/08/15/winklevoss-twins-crypto-company-gemini-files-for-ipo/)
+📰 [Judge says FTC investigation into Media Matters ‘should alarm all Americans’](https://techcrunch.com/2025/08/16/judge-says-ftc-investigation-into-media-matters-should-alarm-all-americans/)
 <!--END_SECTION:news-->
 
