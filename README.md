@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Judge says FTC investigation into Media Matters ‘should alarm all Americans’](https://techcrunch.com/2025/08/16/judge-says-ftc-investigation-into-media-matters-should-alarm-all-americans/)
+📰 [GPT-5 is supposed to be nicer now](https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/)
 <!--END_SECTION:news-->
 
