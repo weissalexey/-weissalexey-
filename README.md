@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [GPT-5 is supposed to be nicer now](https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/)
+📰 [OpenAI launches a sub $5 ChatGPT plan in India](https://techcrunch.com/2025/08/18/openai-launches-a-sub-5-chatgpt-plan-in-india/)
 <!--END_SECTION:news-->
 
