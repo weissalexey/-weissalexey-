@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI launches a sub $5 ChatGPT plan in India](https://techcrunch.com/2025/08/18/openai-launches-a-sub-5-chatgpt-plan-in-india/)
+📰 [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/)
 <!--END_SECTION:news-->
 
