@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Deel scores a lawsuit win, but not against Rippling](https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/)
+📰 [Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)
 <!--END_SECTION:news-->
 
