@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI announces New Delhi office as it expands footprint in India](https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/)
+📰 [Meta partners with Midjourney on AI image and video models](https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/)
 <!--END_SECTION:news-->
 
