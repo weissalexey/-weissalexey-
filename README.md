@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Meta partners with Midjourney on AI image and video models](https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/)
+📰 [OpenAI warns against SPVs and other ‘unauthorized’ investments](https://techcrunch.com/2025/08/23/openai-warns-against-spvs-and-other-unauthorized-investments/)
 <!--END_SECTION:news-->
 
