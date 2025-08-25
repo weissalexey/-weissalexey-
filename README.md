@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI warns against SPVs and other ‘unauthorized’ investments](https://techcrunch.com/2025/08/23/openai-warns-against-spvs-and-other-unauthorized-investments/)
+📰 [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/)
 <!--END_SECTION:news-->
 
