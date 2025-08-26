@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Pintarnya raises $16.7M to power jobs and financial services in Indonesia](https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/)
+📰 [Tesla could have avoided that $242.5M Autopilot verdict, filings show](https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/)
 <!--END_SECTION:news-->
 
