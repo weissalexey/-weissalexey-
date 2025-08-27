@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Tesla could have avoided that $242.5M Autopilot verdict, filings show](https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/)
+📰 [SpaceX notches major wins during 10th Starship test](https://techcrunch.com/2025/08/26/spacex-notches-major-wins-during-tenth-starship-test/)
 <!--END_SECTION:news-->
 
