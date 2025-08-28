@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [SpaceX notches major wins during 10th Starship test](https://techcrunch.com/2025/08/26/spacex-notches-major-wins-during-tenth-starship-test/)
+📰 [Maisa AI gets $25M to fix enterprise AI&#8217;s 95% failure rate](https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/)
 <!--END_SECTION:news-->
 
