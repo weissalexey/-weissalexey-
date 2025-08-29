@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Maisa AI gets $25M to fix enterprise AI&#8217;s 95% failure rate](https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/)
+📰 [Trump administration&#8217;s deal is structured to prevent Intel from selling foundry unit](https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/)
 <!--END_SECTION:news-->
 
