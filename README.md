@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [BMW, I am so breaking up with you](https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/)
+📰 [Waymo expands to Denver and Seattle with its Zeekr-made vans](https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/)
 <!--END_SECTION:news-->
 
