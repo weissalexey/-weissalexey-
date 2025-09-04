@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Waymo expands to Denver and Seattle with its Zeekr-made vans](https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/)
+📰 [Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation](https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/)
 <!--END_SECTION:news-->
 
