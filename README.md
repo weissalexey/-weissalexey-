@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Bret Taylor&#8217;s Sierra raises $350M at a $10B valuation](https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/)
+📰 [OpenAI reorganizes research team behind ChatGPT&#8217;s personality](https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/)
 <!--END_SECTION:news-->
 
