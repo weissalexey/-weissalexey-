@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Uber and Momenta to test autonomous vehicles in Germany in 2026](https://techcrunch.com/2025/09/07/uber-and-momenta-to-test-autonomous-vehicles-in-germany-in-2026/)
+📰 [OpenAI denies that it&#8217;s weighing a &#8216;last-ditch&#8217; California exit amid regulatory pressure over its restructuring](https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/)
 <!--END_SECTION:news-->
 
