@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI denies that it&#8217;s weighing a &#8216;last-ditch&#8217; California exit amid regulatory pressure over its restructuring](https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/)
+📰 [Robinhood embraces copy trading after warning competitors about regulatory risks](https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/)
 <!--END_SECTION:news-->
 
