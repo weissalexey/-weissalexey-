@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/)
+📰 [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/11/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/)
 <!--END_SECTION:news-->
 
