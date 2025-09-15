@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Tesla board chair calls debate over Elon Musk’s $1T pay package ‘a little bit weird’](https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-over-elon-musks-1t-pay-package-a-little-bit-weird/)
+📰 [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/)
 <!--END_SECTION:news-->
 
