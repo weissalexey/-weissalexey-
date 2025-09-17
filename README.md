@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Nothing closes $200M Series C led by Tiger Global, plans AI-first device launch](https://techcrunch.com/2025/09/15/nothing-closes-200m-series-c-led-by-tiger-global-plans-ai-first-device-launch/)
+📰 [India&#8217;s Urban Company soars 58% above IPO price in year&#8217;s most subscribed offering](https://techcrunch.com/2025/09/16/indias-urban-company-soars-58-above-ipo-price-in-years-most-subscribed-offering/)
 <!--END_SECTION:news-->
 
