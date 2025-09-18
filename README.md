@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [India&#8217;s Urban Company soars 58% above IPO price in year&#8217;s most subscribed offering](https://techcrunch.com/2025/09/16/indias-urban-company-soars-58-above-ipo-price-in-years-most-subscribed-offering/)
+📰 [India leads the way on Google&#8217;s Nano Banana with a local creative twist](https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/)
 <!--END_SECTION:news-->
 
