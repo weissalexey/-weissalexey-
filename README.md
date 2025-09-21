@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Google isn&#8217;t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/)
+📰 [White House offers more details about potential TikTok deal](https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/)
 <!--END_SECTION:news-->
 
