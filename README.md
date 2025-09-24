@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia](https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/)
+📰 [OpenAI is building five new Stargate data centers with Oracle and SoftBank](https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/)
 <!--END_SECTION:news-->
 
