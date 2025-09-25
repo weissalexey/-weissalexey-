@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI is building five new Stargate data centers with Oracle and SoftBank](https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/)
+📰 [Smartphone maker Nothing to spin off its affordable CMF brand](https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/)
 <!--END_SECTION:news-->
 
