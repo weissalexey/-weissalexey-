@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Smartphone maker Nothing to spin off its affordable CMF brand](https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/)
+📰 [Thousands of Indian bank transfer records found online](https://techcrunch.com/2025/09/25/thousands-of-indian-bank-transfer-records-found-online/)
 <!--END_SECTION:news-->
 
