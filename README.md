@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Thousands of Indian bank transfer records found online](https://techcrunch.com/2025/09/25/thousands-of-indian-bank-transfer-records-found-online/)
+📰 [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/)
 <!--END_SECTION:news-->
 
