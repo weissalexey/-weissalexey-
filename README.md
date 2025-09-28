@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/)
+📰 [Beware coworkers who produce AI-generated &#8216;workslop&#8217;](https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/)
 <!--END_SECTION:news-->
 
