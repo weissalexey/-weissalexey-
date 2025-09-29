@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Beware coworkers who produce AI-generated &#8216;workslop&#8217;](https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/)
+📰 [Paid, the AI agent &#8216;results-based billing&#8217; startup from Manny Medina, raises huge $21M seed](https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/)
 <!--END_SECTION:news-->
 
