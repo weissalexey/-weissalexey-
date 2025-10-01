@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Notion Capital raises $130M growth fund to tackle Europe&#8217;s follow-on gap](https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/)
+📰 [U.S. government takes stake in Canadian lithium miner and its Nevada mining project](https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/)
 <!--END_SECTION:news-->
 
