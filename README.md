@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [U.S. government takes stake in Canadian lithium miner and its Nevada mining project](https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/)
+📰 [Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them](https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/)
 <!--END_SECTION:news-->
 
