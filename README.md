@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [After nine years of grinding, Replit finally found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/)
+📰 [Bezos predicts that millions will live in space kind of soon](https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/)
 <!--END_SECTION:news-->
 
