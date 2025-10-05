@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Bezos predicts that millions will live in space kind of soon](https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/)
+📰 [A breach every month raises doubts about South Korea&#8217;s digital defenses](https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/)
 <!--END_SECTION:news-->
 
