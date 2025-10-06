@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [A breach every month raises doubts about South Korea&#8217;s digital defenses](https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/)
+📰 [Heidi Health raises $65M Series B led by Steve Cohen’s Point72](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/)
 <!--END_SECTION:news-->
 
