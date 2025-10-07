@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Heidi Health raises $65M Series B led by Steve Cohen’s Point72](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/)
+📰 [Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI](https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/)
 <!--END_SECTION:news-->
 
