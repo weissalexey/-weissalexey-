@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI](https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/)
+📰 [Revolut aims to take on Indian banks and their &#8216;criminal&#8217; forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/)
 <!--END_SECTION:news-->
 
