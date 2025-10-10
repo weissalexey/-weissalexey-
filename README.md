@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI&#8217;s affordable ChatGPT Go plan expands to 16 new countries in Asia](https://techcrunch.com/2025/10/09/openais-affordable-chatgpt-go-plan-expands-to-16-new-countries-in-asia/)
+📰 [Shutdown silver lining? Your IPO review comes after investors buy in](https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/)
 <!--END_SECTION:news-->
 
