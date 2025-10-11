@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Shutdown silver lining? Your IPO review comes after investors buy in](https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/)
+📰 [The fixer&#8217;s dilemma: Chris Lehane and OpenAI&#8217;s impossible mission](https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/)
 <!--END_SECTION:news-->
 
