@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Strava eyes IPO as Gen Z trades dating apps for running clubs](https://techcrunch.com/2025/10/12/strava-eyes-ipo-as-gen-z-trades-dating-apps-for-running-clubs/)
+📰 [Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge](https://techcrunch.com/2025/10/13/goldman-sachs-is-acquiring-industry-ventures-for-up-to-965m-as-alternative-vc-exits-surge/)
 <!--END_SECTION:news-->
 
