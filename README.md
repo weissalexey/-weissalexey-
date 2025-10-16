@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI has five years to turn $13 billion into $1 trillion](https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/)
+📰 [India&#8217;s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/)
 <!--END_SECTION:news-->
 
