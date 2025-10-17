@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [India&#8217;s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/)
+📰 [Reddit expands its AI-powered search to five new languages](https://techcrunch.com/2025/10/16/reddit-expands-its-ai-powered-search-to-five-new-languages/)
 <!--END_SECTION:news-->
 
