@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Reddit expands its AI-powered search to five new languages](https://techcrunch.com/2025/10/16/reddit-expands-its-ai-powered-search-to-five-new-languages/)
+📰 [Silicon Valley spooks the AI safety advocates](https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/)
 <!--END_SECTION:news-->
 
