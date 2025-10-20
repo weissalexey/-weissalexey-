@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Spyware maker NSO Group blocked from WhatsApp](https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/)
+📰 [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/)
 <!--END_SECTION:news-->
 
