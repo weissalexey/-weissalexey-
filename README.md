@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [European AI rising star Nexos.ai raises $30M to unlock enterprise AI adoption](https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/)
+📰 [Netflix goes ‘all in’ on generative AI as entertainment industry remains divided](https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/)
 <!--END_SECTION:news-->
 
