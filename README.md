@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Netflix goes ‘all in’ on generative AI as entertainment industry remains divided](https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/)
+📰 [As China&#8217;s 996 culture spreads, South Korea&#8217;s tech sector grapples with 52-hour limit](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)
 <!--END_SECTION:news-->
 
