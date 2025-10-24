@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [As China&#8217;s 996 culture spreads, South Korea&#8217;s tech sector grapples with 52-hour limit](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)
+📰 [Big tech is paying for Trump&#8217;s White House ballroom](https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/)
 <!--END_SECTION:news-->
 
