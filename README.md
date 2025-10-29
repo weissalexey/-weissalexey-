@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI offers free ChatGPT Go for one year to all users in India](https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/)
+📰 [CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware](https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/)
 <!--END_SECTION:news-->
 
