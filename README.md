@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware](https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/)
+📰 [IntrCity SmartBus lands $30M at $140M valuation to deepen its grip on India&#8217;s intercity travel market](https://techcrunch.com/2025/10/29/intrcity-smartbus-lands-30m-at-140m-valuation-to-deepen-its-grip-on-indias-intercity-travel-market/)
 <!--END_SECTION:news-->
 
