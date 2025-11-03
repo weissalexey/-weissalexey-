@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/)
+📰 [Kevin Rose&#8217;s simple test for AI hardware &#8212; would you want to punch someone in the face who&#8217;s wearing it?](https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/)
 <!--END_SECTION:news-->
 
