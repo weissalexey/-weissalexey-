@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Wait, people actually use Facebook Dating?](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/)
+📰 [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/)
 <!--END_SECTION:news-->
 
