@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Discord&#8217;s Family Center update now lets parents monitor weekly purchases](https://techcrunch.com/2025/11/05/discords-family-center-update-now-lets-parents-monitor-weekly-purchases/)
+📰 [Tesla delays reveal of production Roadster 2 to April Fools&#8217; Day](https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/)
 <!--END_SECTION:news-->
 
