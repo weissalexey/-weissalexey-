@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/)
+📰 [Is Wall Street losing faith in AI?](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/)
 <!--END_SECTION:news-->
 
