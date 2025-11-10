@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Is Wall Street losing faith in AI?](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/)
+📰 [Blue Origin scrubs second New Glenn launch, will try again November 12](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)
 <!--END_SECTION:news-->
 
