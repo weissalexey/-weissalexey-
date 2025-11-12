@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Lovable says it&#8217;s nearing 8 million users as the year-old AI coding startup eyes more corporate employees](https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/)
+📰 [The global race for the AI app layer is still on](https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/)
 <!--END_SECTION:news-->
 
