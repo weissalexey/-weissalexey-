@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The global race for the AI app layer is still on](https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/)
+📰 [Kering-backed fund Mirova pours $30.5M into India&#8217;s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/)
 <!--END_SECTION:news-->
 
