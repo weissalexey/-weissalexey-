@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/)
+📰 [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/)
 <!--END_SECTION:news-->
 
