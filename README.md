@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/)
+📰 [Beloved SF cat’s death fuels Waymo criticism](https://techcrunch.com/2025/11/16/beloved-sf-cats-death-fuels-waymo-criticism/)
 <!--END_SECTION:news-->
 
