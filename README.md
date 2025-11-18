@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Beloved SF cat’s death fuels Waymo criticism](https://techcrunch.com/2025/11/16/beloved-sf-cats-death-fuels-waymo-criticism/)
+📰 [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/)
 <!--END_SECTION:news-->
 
