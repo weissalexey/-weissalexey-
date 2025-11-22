@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Grok says Elon Musk is better than basically everyone, except Shohei Ohtani](https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/)
+📰 [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/)
 <!--END_SECTION:news-->
 
