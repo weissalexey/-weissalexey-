@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/)
+📰 [Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/)
 <!--END_SECTION:news-->
 
