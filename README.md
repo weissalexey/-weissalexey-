@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/)
+📰 [Roblox CEO interview gets heated over child safety](https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-child-safety/)
 <!--END_SECTION:news-->
 
