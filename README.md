@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Roblox CEO interview gets heated over child safety](https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-child-safety/)
+📰 [India&#8217;s gig workers win legal status, but access to social security remains elusive](https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/)
 <!--END_SECTION:news-->
 
