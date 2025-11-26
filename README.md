@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [India&#8217;s gig workers win legal status, but access to social security remains elusive](https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/)
+📰 [Uber and WeRide&#8217;s robotaxi service in Abu Dhabi is officially driverless](https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/)
 <!--END_SECTION:news-->
 
