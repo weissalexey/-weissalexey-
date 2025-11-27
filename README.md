@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Uber and WeRide&#8217;s robotaxi service in Abu Dhabi is officially driverless](https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/)
+📰 [The future will be explained to you in Palo Alto](https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/)
 <!--END_SECTION:news-->
 
