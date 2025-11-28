@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The future will be explained to you in Palo Alto](https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/)
+📰 [Anduril&#8217;s autonomous weapons stumble in tests and combat, WSJ reports](https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/)
 <!--END_SECTION:news-->
 
