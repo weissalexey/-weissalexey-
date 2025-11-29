@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Anduril&#8217;s autonomous weapons stumble in tests and combat, WSJ reports](https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/)
+📰 [VC Kara Nortman bet early on women&#8217;s sports, and now she&#8217;s creating the market](https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/)
 <!--END_SECTION:news-->
 
