@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out](https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/)
+📰 [Healthify upgrades its AI assistant Ria with real-time conversation capabilities](https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities/)
 <!--END_SECTION:news-->
 
