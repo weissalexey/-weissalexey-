@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Pat Gelsinger wants to save Moore&#8217;s Law, with a little help from the Feds](https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/)
+📰 [Netflix co-CEO discussed Warner Bros. deal with Trump](https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/)
 <!--END_SECTION:news-->
 
