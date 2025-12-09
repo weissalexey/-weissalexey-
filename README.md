@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Netflix co-CEO discussed Warner Bros. deal with Trump](https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/)
+📰 [FTC upholds ban on stalkerware founder Scott Zuckerman](https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/)
 <!--END_SECTION:news-->
 
