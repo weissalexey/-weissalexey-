@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [FTC upholds ban on stalkerware founder Scott Zuckerman](https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/)
+📰 [CoreWeave CEO defends AI circular deals as &#8216;working together&#8217;](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/)
 <!--END_SECTION:news-->
 
