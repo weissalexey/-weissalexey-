@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Baby delivered in Waymo continues proud tradition of not making it to the hospital](https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/)
+📰 [World launches its &#8216;super app,&#8217; including crypto pay and encrypted chat features](https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/)
 <!--END_SECTION:news-->
 
