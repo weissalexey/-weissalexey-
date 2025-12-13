@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [World launches its &#8216;super app,&#8217; including crypto pay and encrypted chat features](https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/)
+📰 [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/)
 <!--END_SECTION:news-->
 
