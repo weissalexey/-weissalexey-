@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [India&#8217;s Spinny lines up $160M funding to acquire GoMechanic, sources say](https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/)
+📰 [How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/)
 <!--END_SECTION:news-->
 
