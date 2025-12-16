@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/)
+📰 [VCs discuss why most consumer AI startups still lack staying power](https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/)
 <!--END_SECTION:news-->
 
