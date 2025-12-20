@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [TikTok agrees to deal to cede control of US business to American investor group](https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/)
+📰 [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/)
 <!--END_SECTION:news-->
 
