@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/)
+📰 [Google and Apple reportedly warn employees on visas to avoid international travel](https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/)
 <!--END_SECTION:news-->
 
