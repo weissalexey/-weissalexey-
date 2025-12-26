@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Nvidia to license AI chip challenger Groq&#8217;s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)
+📰 [How a Spanish virus brought Google to Málaga](https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/)
 <!--END_SECTION:news-->
 
