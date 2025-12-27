@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [How a Spanish virus brought Google to Málaga](https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/)
+📰 [How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
 <!--END_SECTION:news-->
 
