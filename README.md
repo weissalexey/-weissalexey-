@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/)
+📰 [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/)
 <!--END_SECTION:news-->
 
