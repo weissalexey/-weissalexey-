@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/)
+📰 [Sauron, the high-end home security startup for &#8220;super premium&#8221; customers, plucks a new CEO out of Sonos](https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/)
 <!--END_SECTION:news-->
 
