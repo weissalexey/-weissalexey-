@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Meta just bought Manus, an AI startup everyone has been talking about](https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/)
+📰 [The phone is dead. Long live . . . what exactly?](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/)
 <!--END_SECTION:news-->
 
