@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The phone is dead. Long live . . . what exactly?](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/)
+📰 [&#8216;College dropout&#8217; has become the most coveted startup founder credential](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/)
 <!--END_SECTION:news-->
 
