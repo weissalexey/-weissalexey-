@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Even as global crop prices fall, India&#8217;s Arya.ag is attracting investors — and staying profitable](https://techcrunch.com/2026/01/01/even-as-global-crop-prices-fall-indias-arya-ag-is-attracting-investors-and-staying-profitable/)
+📰 [India orders Musk&#8217;s X to fix Grok over &#8216;obscene&#8217; AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/)
 <!--END_SECTION:news-->
 
