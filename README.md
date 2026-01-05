@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Tech billionaires cashed out $16 billion in 2025 as stocks soared](https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/)
+📰 [Can a social app fix the ‘terrible devastation’ of social media?](https://techcrunch.com/2026/01/04/can-a-social-app-fix-the-terrible-devastation-of-social-media/)
 <!--END_SECTION:news-->
 
