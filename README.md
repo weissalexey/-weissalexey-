@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness](https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/)
+📰 [New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/)
 <!--END_SECTION:news-->
 
