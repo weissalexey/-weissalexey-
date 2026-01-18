@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ](https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/)
+📰 [Why Silicon Valley is really talking about fleeing California (it&#8217;s not the 5%)](https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/)
 <!--END_SECTION:news-->
 
