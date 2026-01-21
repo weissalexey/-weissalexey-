@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
+📰 [Snap reaches settlement in social media addiction lawsuit](https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/)
 <!--END_SECTION:news-->
 
