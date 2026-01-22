@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Snap reaches settlement in social media addiction lawsuit](https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/)
+📰 [Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable](https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/)
 <!--END_SECTION:news-->
 
