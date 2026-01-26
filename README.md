@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Gmail is having issues with spam and misclassification](https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/)
+📰 [This founder cracked firefighting &#8212; now he&#8217;s creating an AI gold mine](https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/)
 <!--END_SECTION:news-->
 
