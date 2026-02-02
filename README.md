@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/)
+📰 [TikTok says its services are restored after the outage](https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/)
 <!--END_SECTION:news-->
 
