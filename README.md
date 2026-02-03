@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [TikTok says its services are restored after the outage](https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/)
+📰 [Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/)
 <!--END_SECTION:news-->
 
