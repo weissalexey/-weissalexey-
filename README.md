@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/)
+📰 [Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup &#8216;won&#8217;t comment&#8217;](https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/)
 <!--END_SECTION:news-->
 
