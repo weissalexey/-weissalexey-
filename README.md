@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/)
+📰 [India has changed its startup rules for deep tech](https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/)
 <!--END_SECTION:news-->
 
