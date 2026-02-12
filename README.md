@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Samsung to hold its Galaxy S26 event on February 25](https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/)
+📰 [xAI lays out interplanetary ambitions in public all-hands](https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/)
 <!--END_SECTION:news-->
 
