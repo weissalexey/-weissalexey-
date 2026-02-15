@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Nothing opens its first retail store in India](https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/)
+📰 [Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts](https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/)
 <!--END_SECTION:news-->
 
