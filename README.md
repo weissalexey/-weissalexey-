@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck](https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/)
+📰 [Have money, will travel: a16z&#8217;s hunt for the next European unicorn](https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/)
 <!--END_SECTION:news-->
 
