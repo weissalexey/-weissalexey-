@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Have money, will travel: a16z&#8217;s hunt for the next European unicorn](https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/)
+📰 [U.S. court bars OpenAI from using &#8216;Cameo&#8217;](https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/)
 <!--END_SECTION:news-->
 
