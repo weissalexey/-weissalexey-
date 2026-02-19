@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [U.S. court bars OpenAI from using &#8216;Cameo&#8217;](https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/)
+📰 [OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW](https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/)
 <!--END_SECTION:news-->
 
