@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [General Catalyst commits $5B to India over five years](https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/)
+📰 [India&#8217;s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/)
 <!--END_SECTION:news-->
 
