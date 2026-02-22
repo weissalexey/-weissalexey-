@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [India&#8217;s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/)
+📰 [Sam Altman would like remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/)
 <!--END_SECTION:news-->
 
