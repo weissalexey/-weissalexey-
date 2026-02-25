@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Canva acquires startups working on animation and marketing](https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/)
+📰 [India&#8217;s AI boom pushes firms to trade near-term revenue for users](https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/)
 <!--END_SECTION:news-->
 
