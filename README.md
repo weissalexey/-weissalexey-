@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [India disrupts access to popular developer platform Supabase with blocking order](https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/)
+📰 [The trap Anthropic built for itself](https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/)
 <!--END_SECTION:news-->
 
