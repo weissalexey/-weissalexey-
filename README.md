@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Robinhood’s startup fund stumbles in NYSE debut](https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/)
+📰 [A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/)
 <!--END_SECTION:news-->
 
