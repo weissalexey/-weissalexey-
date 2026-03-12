@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Anduril snaps up space surveillance firm ExoAnalytic Solutions](https://techcrunch.com/2026/03/11/anduril-snaps-up-space-surveillance-firm-exoanalytic-solutions/)
+📰 [Chinese brain interface startup Gestala raises $21M just two months after launch](https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/)
 <!--END_SECTION:news-->
 
