@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Before quantum computing arrives, this startup wants enterprises already running on it](https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/)
+📰 [&#8216;Not built right the first time&#8217; &#8212; Musk&#8217;s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/)
 <!--END_SECTION:news-->
 
