@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Picsart now allows creators to &#8216;hire&#8217; AI assistants through agent marketplace](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/)
+📰 [Kalshi&#8217;s legal troubles pile up, as Arizona files first ever criminal charges over &#8216;illegal gambling business&#8217;](https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/)
 <!--END_SECTION:news-->
 
