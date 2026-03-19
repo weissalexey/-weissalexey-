@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Kalshi&#8217;s legal troubles pile up, as Arizona files first ever criminal charges over &#8216;illegal gambling business&#8217;](https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/)
+📰 [Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval](https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/)
 <!--END_SECTION:news-->
 
