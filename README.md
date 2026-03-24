@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The SEC drops its four-year-old investigation into EV startup Faraday Future](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/)
+📰 [Delve halts demos, Insight Partners scrubs investment post amid &#8216;fake compliance&#8217; allegations](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/)
 <!--END_SECTION:news-->
 
