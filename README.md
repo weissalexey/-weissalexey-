@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Delve halts demos, Insight Partners scrubs investment post amid &#8216;fake compliance&#8217; allegations](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/)
+📰 [A former Thiel fellow&#8217;s startup just launched a drone it says can replace police helicopters](https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/)
 <!--END_SECTION:news-->
 
