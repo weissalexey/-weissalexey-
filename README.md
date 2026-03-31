@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Why OpenAI really shut down Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)
+📰 [The Silicon Valley congressional race is getting ugly](https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/)
 <!--END_SECTION:news-->
 
