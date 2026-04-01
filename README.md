@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The Silicon Valley congressional race is getting ugly](https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/)
+📰 [Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
 <!--END_SECTION:news-->
 
