@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)
+📰 [Amazon hits sellers with &#8216;fuel surcharge&#8217; as Iran war roils global energy markets](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/)
 <!--END_SECTION:news-->
 
