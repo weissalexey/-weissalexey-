@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Amazon hits sellers with &#8216;fuel surcharge&#8217; as Iran war roils global energy markets](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/)
+📰 [Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)
 <!--END_SECTION:news-->
 
