@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [NASA Artemis II splashes down in Pacific Ocean in &#8216;perfect&#8217; landing for Moon mission](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/)
+📰 [Walmart-owned Flipkart, Amazon are squeezing India&#8217;s quick commerce startups](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/)
 <!--END_SECTION:news-->
 
