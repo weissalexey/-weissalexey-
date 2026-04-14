@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The largest orbital compute cluster is open for business](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/)
+📰 [An Amazon warehouse worker died on the job at Oregon facility](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/)
 <!--END_SECTION:news-->
 
