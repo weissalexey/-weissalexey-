@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
+📰 [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)
 <!--END_SECTION:news-->
 
