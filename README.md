@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)
+📰 [Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/)
 <!--END_SECTION:news-->
 
