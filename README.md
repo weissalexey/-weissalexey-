@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/)
+📰 [Drizzle on top: a new high-end dog food brand is coming for the 1%](https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/)
 <!--END_SECTION:news-->
 
