@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
+📰 [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)
 <!--END_SECTION:news-->
 
