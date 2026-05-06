@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [As workers worry about AI, Nvidia&#8217;s Jensen Huang says AI is &#8216;creating an enormous number of jobs&#8217;](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
+📰 [Peter Sarlin&#8217;s QuTwo reaches $380M valuation in angel round](https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/)
 <!--END_SECTION:news-->
 
