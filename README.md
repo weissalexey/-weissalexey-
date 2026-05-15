@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Who decides what AI tells you? Campbell Brown, once Meta&#8217;s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/)
+📰 [What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
 <!--END_SECTION:news-->
 
