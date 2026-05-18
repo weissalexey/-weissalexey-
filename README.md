@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
+📰 [South Korea&#8217;s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
 <!--END_SECTION:news-->
 
