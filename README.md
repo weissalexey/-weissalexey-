@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Truecaller gets into the eSIM business to diversify its revenue streams](https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/)
+📰 [Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)
 <!--END_SECTION:news-->
 
