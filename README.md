@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Vertu wants CEOs to run companies from an AI foldable starting at $6,880](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/)
+📰 [Blue Origin&#8217;s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/)
 <!--END_SECTION:news-->
 
