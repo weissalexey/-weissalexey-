@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Strava declares war on scrapers ahead of IPO](https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/)
+📰 [Pacific Fusion&#8217;s latest prototype packs 440 gigawatts into an 80-nanosecond burst](https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/)
 <!--END_SECTION:news-->
 
