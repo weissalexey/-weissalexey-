@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Pacific Fusion&#8217;s latest prototype packs 440 gigawatts into an 80-nanosecond burst](https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/)
+📰 [The world’s largest privately owned laser just turned on](https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/)
 <!--END_SECTION:news-->
 
