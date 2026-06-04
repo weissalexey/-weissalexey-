@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The world’s largest privately owned laser just turned on](https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/)
+📰 [Benchmark raises its first-ever growth fund as part of $2B capital raise](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/)
 <!--END_SECTION:news-->
 
