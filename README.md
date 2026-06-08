@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
+📰 [Uber, Wayve and Waymo are headed towards a robotaxi showdown in London](https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/)
 <!--END_SECTION:news-->
 
