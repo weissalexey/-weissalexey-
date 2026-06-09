@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Uber, Wayve and Waymo are headed towards a robotaxi showdown in London](https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/)
+📰 [Evotrex raises $30M to build the RV that doesn&#8217;t need a charging station](https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/)
 <!--END_SECTION:news-->
 
