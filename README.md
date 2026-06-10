@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Evotrex raises $30M to build the RV that doesn&#8217;t need a charging station](https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/)
+📰 [Waymo says it built a better benchmark for comparing robotaxis to humans](https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/)
 <!--END_SECTION:news-->
 
