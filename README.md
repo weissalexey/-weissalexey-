@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&#8217;](https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/)
+📰 [NASA picks Eric Schmidt&#8217;s rocket company for Mars mission, setting up a race with SpaceX](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
 <!--END_SECTION:news-->
 
