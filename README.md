@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [NASA picks Eric Schmidt&#8217;s rocket company for Mars mission, setting up a race with SpaceX](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
+📰 [The US says ASML&#8217;s top chip tool may be in China. ASML says it isn&#8217;t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
 <!--END_SECTION:news-->
 
