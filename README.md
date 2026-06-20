@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The US says ASML&#8217;s top chip tool may be in China. ASML says it isn&#8217;t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
+📰 [He made your free video player run smoothly. Now he&#8217;s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)
 <!--END_SECTION:news-->
 
