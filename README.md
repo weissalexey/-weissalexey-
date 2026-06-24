@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+📰 [How to invest when everything is moving too fast](https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/)
 <!--END_SECTION:news-->
 
