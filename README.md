@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [How to invest when everything is moving too fast](https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/)
+📰 [Cellebrite said it cut off Russia, but Russia used is tools anyway](https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/)
 <!--END_SECTION:news-->
 
