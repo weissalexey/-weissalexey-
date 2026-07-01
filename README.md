@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/)
+📰 [The &#8216;Father of the Internet&#8217; is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 <!--END_SECTION:news-->
 
