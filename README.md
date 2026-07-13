@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/)
+📰 [TechCrunch Mobility: A robotaxi ultimatum](https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/)
 <!--END_SECTION:news-->
 
