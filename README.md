@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/)
+📰 [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
 <!--END_SECTION:news-->
 
