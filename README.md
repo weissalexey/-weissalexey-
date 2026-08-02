@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
+📰 [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
 <!--END_SECTION:news-->
 
