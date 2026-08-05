@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)
+📰 [Wispr Flow launches a Granola-styled meeting notetaker](https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/)
 <!--END_SECTION:news-->
 
