@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [OpenAI reportedly completed a $7 billion employee tender offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/)
+📰 [India&#8217;s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/)
 <!--END_SECTION:news-->
 
