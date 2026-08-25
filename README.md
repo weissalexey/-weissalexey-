@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Who&#8217;s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
+📰 [India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/)
 <!--END_SECTION:news-->
 
