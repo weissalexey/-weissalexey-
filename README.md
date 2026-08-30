@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)
+📰 [Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
 <!--END_SECTION:news-->
 
