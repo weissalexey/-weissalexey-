@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [MapQuest&#8217;s app surges to No. 1 in Navigation after refusing to rename Lake Ontario](https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/)
+⚠️ Unable to fetch news: 403 Client Error: Forbidden for url: https://techcrunch.com/wp-json/wp/v2/posts?per_page=1
 <!--END_SECTION:news-->
 
