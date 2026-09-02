@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-⚠️ Unable to fetch news: 403 Client Error: Forbidden for url: https://techcrunch.com/wp-json/wp/v2/posts?per_page=1
+📰 [Larry Page&#8217;s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/)
 <!--END_SECTION:news-->
 
