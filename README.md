@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/)
+📰 [The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)
 <!--END_SECTION:news-->
 
