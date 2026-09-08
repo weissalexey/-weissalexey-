@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/)
+📰 [Stoke Space raises another billion to rival SpaceX at re-flying rockets](https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/)
 <!--END_SECTION:news-->
 
