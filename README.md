@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Stoke Space raises another billion to rival SpaceX at re-flying rockets](https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/)
+📰 [Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up](https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/)
 <!--END_SECTION:news-->
 
