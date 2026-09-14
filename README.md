@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
+📰 [Insight Partners&#8217; Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
 <!--END_SECTION:news-->
 
