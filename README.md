@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Insight Partners&#8217; Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
+📰 [New Italian unicorn Exein rides the physical AI wave](https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/)
 <!--END_SECTION:news-->
 
