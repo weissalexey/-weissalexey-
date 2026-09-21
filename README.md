@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
+📰 [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
 <!--END_SECTION:news-->
 
