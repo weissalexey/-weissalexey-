@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Meta deal will help plastics recycling startup MacroCycle build its first factory](https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/)
+📰 [Comma&#8217;s hands-off driving tech under investigation after 2 fatal crashes](https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/)
 <!--END_SECTION:news-->
 
