@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Comma&#8217;s hands-off driving tech under investigation after 2 fatal crashes](https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/)
+📰 [Everything new coming to Meta&#8217;s AI agent Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/)
 <!--END_SECTION:news-->
 
