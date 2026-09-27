@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [At Meta Connect, the company&#8217;s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
+📰 [PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/)
 <!--END_SECTION:news-->
 
