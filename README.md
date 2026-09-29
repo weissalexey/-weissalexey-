@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [FBI reportedly declares &#8216;cyber security incident&#8217; after hackers steal agents&#8217; personal data](https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/)
+📰 [Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix](https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/)
 <!--END_SECTION:news-->
 
