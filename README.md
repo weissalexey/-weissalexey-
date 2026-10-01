@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature](https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/)
+📰 [Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/)
 <!--END_SECTION:news-->
 
