@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/)
+📰 [Medical records giant Epic pauses product development to fix security bugs that risk patients&#8217; data](https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/)
 <!--END_SECTION:news-->
 
