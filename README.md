@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Federal judge calls Flock ‘indiscriminate mass surveillance’](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+📰 [OpenAI launches visual ads that appear alongside image generation results](https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/)
 <!--END_SECTION:news-->
 
