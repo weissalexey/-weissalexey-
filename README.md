@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Glimpse wants to give hardware companies an X-ray view of every critical part](https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/)
+📰 [Ring&#8217;s first smart lock can be hand-cranked when its battery dies](https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/)
 <!--END_SECTION:news-->
 
