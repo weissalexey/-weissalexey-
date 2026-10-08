@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Ring&#8217;s first smart lock can be hand-cranked when its battery dies](https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/)
+⚠️ Unable to fetch news: 406 Client Error: Not Acceptable for url: https://techcrunch.com/wp-json/wp/v2/posts?per_page=1
 <!--END_SECTION:news-->
 
