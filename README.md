@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-⚠️ Unable to fetch news: 406 Client Error: Not Acceptable for url: https://techcrunch.com/wp-json/wp/v2/posts?per_page=1
+📰 [TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/)
 <!--END_SECTION:news-->
 
