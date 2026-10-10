@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/)
+📰 [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)
 <!--END_SECTION:news-->
 
