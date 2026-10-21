@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Oura adds new fitness metrics to show how workouts impact your body](https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/)
+📰 [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
 <!--END_SECTION:news-->
 
