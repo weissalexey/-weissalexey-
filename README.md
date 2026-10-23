@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Tesla says it will start selling Cybercabs by end of year](https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/)
+📰 [Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
 <!--END_SECTION:news-->
 
