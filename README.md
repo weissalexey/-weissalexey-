@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Startups don&#8217;t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
+📰 [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
 <!--END_SECTION:news-->
 
