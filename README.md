@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
+📰 [Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)](https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/)
 <!--END_SECTION:news-->
 
