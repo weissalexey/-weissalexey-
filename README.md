@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Free Fire returns to India as Garena launches localized version four years after ban](https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/)
+📰 [Bluesky blocks links to leaked DHS employee data as government seeks takedowns](https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/)
 <!--END_SECTION:news-->
 
