@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/)
+📰 [Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/)
 <!--END_SECTION:news-->
 
