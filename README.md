@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Here’s what &#8216;renoa&#8217; — the first new fiber in 25 years — feels like](https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/)
+📰 [SpaceX reportedly wants to buy Boost Mobile to compete with AT&amp;T, T-Mobile, and Verizon](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
 <!--END_SECTION:news-->
 
