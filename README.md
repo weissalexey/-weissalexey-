@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Titan OS raises $46 million to expand its smart TV OS internationally](https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/)
+📰 [ElevenLabs now lets users publish AI-generated music directly on SoundCloud](https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/)
 <!--END_SECTION:news-->
 
