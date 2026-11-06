@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [ElevenLabs now lets users publish AI-generated music directly on SoundCloud](https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/)
+📰 [After blocking Muse, Amazon now lets users text Alexa to help them shop](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)
 <!--END_SECTION:news-->
 
