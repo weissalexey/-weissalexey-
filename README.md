@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?](https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/)
+📰 [Uber confirms hackers stole thousands of drivers&#8217; license information in data breach](https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
 <!--END_SECTION:news-->
 
