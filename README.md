@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Uber confirms hackers stole thousands of drivers&#8217; license information in data breach](https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
+📰 [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
 <!--END_SECTION:news-->
 
