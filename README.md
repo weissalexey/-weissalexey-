@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
+📰 [Where was Nvidia&#8217;s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
 <!--END_SECTION:news-->
 
