@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Where was Nvidia&#8217;s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
+📰 [Serena Williams winds down her VC firm, launches new fund, targets $200M](https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/)
 <!--END_SECTION:news-->
 
