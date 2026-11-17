@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Serena Williams winds down her VC firm, launches new fund, targets $200M](https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/)
+📰 [Daydream&#8217;s new AI agent acts as your personal stylist — and can shop for you, too](https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/)
 <!--END_SECTION:news-->
 
