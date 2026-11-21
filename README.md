@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [A transcription firm used by police, prosecutors and tech giants exposed customer data online](https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/)
+📰 [Startup sues Apple in India over tap-to-share contacts feature](https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/)
 <!--END_SECTION:news-->
 
