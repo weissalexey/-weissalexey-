@@ -65,6 +65,6 @@ Tool to annotate and label incoming freight documents
 ## 📰 Latest IT News
 
 <!--START_SECTION:news-->
-📰 [Startup sues Apple in India over tap-to-share contacts feature](https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/)
+📰 [Can a TV be too large? An investigation](https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/)
 <!--END_SECTION:news-->
 
